@@ -1,0 +1,7 @@
+l,b,h=input().split()
+l=int(l)
+b=int(b)
+h=int(h)
+TSA=(2*l*b)+(2*l*h)+(2*h*b)
+Cuboid=(l*b*h)
+print(TSA,Cuboid)
