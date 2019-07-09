@@ -1,2 +1,2 @@
-cap=input()
-print(cap.title())
+capsss=input()
+print(capsss.title())
