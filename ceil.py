@@ -1,3 +1,3 @@
 import math
-y=float(input())
-print(math.ceil(y))
+sb=float(input())
+print(math.ceil(sb))
